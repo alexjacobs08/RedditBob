@@ -1,0 +1,6 @@
+.idea
+venv36
+creds
+*.ini
+.Python
+bin
